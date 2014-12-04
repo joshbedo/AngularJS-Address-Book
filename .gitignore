@@ -1,3 +1,6 @@
+# Bower components custom dir
+/lib
+
 # Logs
 logs
 *.log
