@@ -1,0 +1,26 @@
+{
+  "name": "AngularJS-Address-Book",
+  "version": "0.0.0",
+  "description": "AngularJS-Address-Book ======================",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.10.4",
+    "bourne": "^0.4.0",
+    "body-parser": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshbedo/AngularJS-Address-Book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshbedo/AngularJS-Address-Book/issues"
+  },
+  "homepage": "https://github.com/joshbedo/AngularJS-Address-Book"
+}
